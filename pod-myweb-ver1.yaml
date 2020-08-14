@@ -1,7 +1,7 @@
 apiVersion : v1
 kind: Pod
 metadata:
-	name: my-web
+ name: my-web
 spec:
   containers:
   	- name : container-apache
